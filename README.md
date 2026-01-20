@@ -61,6 +61,7 @@
  Este projeto faz parte do meu portfólio de aplicação de IA em Sistemas de Informação. Sou estudante de Desenvolvimento de Sistemas e acadêmico de Ciência da Computação na UniCuritiba.
 
 LinkedIn: www.linkedin.com/in/pedrobudasz
+Link Notebook LM: https://notebooklm.google.com/notebook/8df8add8-f362-4b62-bfa9-354235e3d5f8
 
 📄 Licença
 
